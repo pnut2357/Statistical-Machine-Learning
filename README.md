@@ -1,2 +1,2 @@
-# Statistical-Machine-Learning
-CSE575
+# Image_Classification_of_Handwritten_Digits
+
