@@ -1,4 +1,4 @@
-# Machine-Learning_and_Deep-Learning
+# Multi-Layer Perceptron with PCA for Mine Detector
 ## Please click the icon of Branch:master (at left top corner) to check my past projects. 
 
 ![naval-sonar-asw-and-mine-hunting-1020x514](https://user-images.githubusercontent.com/20247211/67550889-73499f00-f6bc-11e9-86db-5c5621a5fadc.jpeg)
