@@ -1,8 +1,6 @@
 # K-Means Clustering for Unsupervised Learning
 ## Unsupervised Learning
 
-This repository contains all machine learning and deep learning projects.
-
 ![HW2_Jaehyuk_Choi_CSE575](https://user-images.githubusercontent.com/20247211/70880587-bc182880-1f86-11ea-8827-27b6c4f52596.jpg)
 
 ![HW2_Jaehyuk_Choi_CSE575(2)](https://user-images.githubusercontent.com/20247211/70880594-c2a6a000-1f86-11ea-9ab1-5d42c41939a5.jpg)
