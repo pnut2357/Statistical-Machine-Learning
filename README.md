@@ -3,5 +3,5 @@
 
 This repository contains all machine learning and deep learning projects.
 
-![ML](https://user-images.githubusercontent.com/20247211/66726869-858c2900-edf0-11e9-862f-1802f693a7af.jpg)
+![HW2_Jaehyuk_Choi_CSE575](https://user-images.githubusercontent.com/20247211/70880477-4613c180-1f86-11ea-8b0b-2c6541f32fea.png)
 
