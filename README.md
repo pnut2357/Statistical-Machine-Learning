@@ -1,4 +1,4 @@
-# Machine-Learning_and_Deep-Learning-Project
+# Machine-Learning_and_Deep-Learning-Projects
 ## Please click the icon of Branch:master (at left top corner) to check my past projects. 
 
 This repository contains all machine learning and deep learning projects.
